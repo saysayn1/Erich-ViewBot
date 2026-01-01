@@ -1,0 +1,8 @@
+[ data ]
+user = "uh" # username / page link to bot the views
+views = 0 # number of views to send keep 0 for unlimited
+
+[ dev ]
+Debug = false
+Proxyless = false
+Threads = 20
