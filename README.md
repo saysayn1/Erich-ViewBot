@@ -74,7 +74,7 @@
 
 ### 📹 Preview
 
-![Preview](https://i.imgur.com/kWEWDRu.gif)
+![Preview](/assets/preview.gif)
 
 ---
 
